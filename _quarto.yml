@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Gregory Power"
+  title: "Data Cabin"
   navbar:
     left:
       - href: index.qmd
@@ -11,7 +11,9 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme:
+      - united
+      - brand
     css: styles.css
     toc: true
 

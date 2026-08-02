@@ -1,5 +1,5 @@
 ---
-title: "Gregory Power"
+title: "Data Cabin"
 ---
 
 This is a Quarto website.

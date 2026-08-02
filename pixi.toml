@@ -1,24 +1,20 @@
-[project]
-name = "data_cabin_quarto"
-version = "0.1.0"
-description = "Gregory Power's website"
+[workspace]
 authors = ["Gregory Power <31050507+gregorywaynepower@users.noreply.github.com>"]
 channels = ["conda-forge"]
+name = "data_cabin"
 platforms = ["linux-64"]
+version = "0.1.0"
 
 [tasks]
 
 [dependencies]
-python = ">=3.12.4,<3.13"
-jupyterlab = ">=4.2.4,<5"
-polars = ">=1.2.1,<2"
-python-duckdb = ">=1.0.0,<2"
-ibis-duckdb = ">=8.0.0,<9"
-ibis-polars = ">=8.0.0,<9"
-ibis-postgres = ">=8.0.0,<9"
-ipykernel = ">=6.29.5,<7"
-r-irkernel = ">=1.3.2,<2"
-pixi-kernel = ">=0.4.0,<0.5"
-
-[pypi-dependencies]
-quarto-cli = ">=1.5.54, <1.6"
+quarto = ">=1.7.32,<2"
+python = ">=3.13.2,<3.14"
+r-base = ">=4.4.3,<4.5"
+jupyterlab = ">=4.4.5,<5"
+ibis-duckdb = ">=10.6.0,<11"
+ibis-polars = ">=10.6.0,<11"
+ibis-postgres = ">=10.6.0,<11"
+duckdb = ">=1.3.2,<2"
+typst = ">=0.13.0,<0.14"
+marimo = ">=0.14.13,<0.15"
