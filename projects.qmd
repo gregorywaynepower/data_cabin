@@ -1,0 +1,10 @@
+---
+title: "Projects"
+subtitle: Data Scientist and Open Source Enthusiast
+---
+
+Welcome to the placeholder page, here are links to my previous projects:
+
+- [CASSI in Cary's Bond Park - Automated Shuttle Pilot Project](https://data.carync.gov/pages/cassi-autonomous-shuttle-bond-park/)
+- [Cary's Water Use per Capita](https://data.carync.gov/pages/water-use-per-capita/)
+- [Cary Composts](https://data.carync.gov/pages/food-waste-pilot-data-story/)

@@ -3,4 +3,4 @@ title: "About"
 subtitle: Data Scientist and Open Source Enthusiast
 ---
 
-About this site
+Thank you for visiting! I am a data professional who has worked with databases, data applications, and geospatial software.
