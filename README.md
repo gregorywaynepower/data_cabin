@@ -9,7 +9,7 @@ I made this website using [Quarto](https://quarto.org/) and is intended to be a 
 - Organize Content
     - About Page Summary
     - Projects
-    - Blog Posts
+    - [Blog Posts](https://quarto.org/docs/websites/website-blog.html)
     - Resume
 
 ## References
