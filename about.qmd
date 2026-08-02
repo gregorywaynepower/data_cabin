@@ -1,5 +1,6 @@
 ---
 title: "About"
+subtitle: Data Scientist and Open Source Enthusiast
 ---
 
 About this site
