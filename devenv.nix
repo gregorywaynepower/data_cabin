@@ -20,6 +20,7 @@
     r.enable = true;
     };
 
+
   # https://devenv.sh/processes/
   # processes.dev.exec = "${lib.getExe pkgs.watchexec} -n -- ls -la";
 
@@ -32,10 +33,11 @@
   '';
 
   # https://devenv.sh/basics/
+  # Fix Positron not recognizing nix binary.
   enterShell = ''
-    hello         # Run scripts directly
-    git --version # Use packages
-  '';
+     export R_LIBS_SITE="$(R --vanilla --slave -e 'cat(Sys.getenv("R_LIBS_SITE"))')"
+     export R_UNWRAPPED="$(R RHOME)/bin/R"
+   '';
 
   # https://devenv.sh/tasks/
   # tasks = {
