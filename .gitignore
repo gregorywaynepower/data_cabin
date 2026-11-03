@@ -16,3 +16,8 @@ devenv.local.yaml
 
 # pre-commit
 .pre-commit-config.yaml
+
+#_site directory
+
+./_site/
+./_site/*
