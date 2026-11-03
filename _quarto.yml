@@ -15,9 +15,10 @@ website:
 
 format:
   html:
+    respect-user-color-scheme: true
     theme:
-      - united
-      - brand
+      dark: [darkly, brand]
+      light: [flatly, brand]
     css: styles.css
     toc: true
 

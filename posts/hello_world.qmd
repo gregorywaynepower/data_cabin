@@ -1,0 +1,10 @@
+---
+title: "Hello World"
+description: "My first post"
+date: "2026-11-03"
+categories: 
+    - news
+image: "../assets/gregory_power.jpeg"
+---
+
+Hello World of Blogs!
