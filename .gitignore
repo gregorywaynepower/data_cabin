@@ -20,4 +20,3 @@ devenv.local.yaml
 #_site directory
 /_site/
 /_site/*
-_site/about.html
