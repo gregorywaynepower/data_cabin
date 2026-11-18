@@ -1,6 +1,26 @@
 ---
 title: "About"
 subtitle: Data Scientist and Open Source Enthusiast
+image: ./assets/gregory_power.jpeg
+about:
+    template: jolla
+    links:
+        - icon: linkedin
+          text: LinkedIn
+          href: https://www.linkedin.com/in/gregorywpower/
+        - icon: github
+          text: GitHub
+          href: https://github.com/gregorywaynepower
+        - icon: bluesky
+          text: Bluesky
+          href: https://bsky.app/profile/gregorywpower.bsky.social
 ---
 
 Thank you for visiting! I am a data professional who has worked with databases, data applications, and geospatial software.
+
+## Education
+
+North Carolina State University | Raleigh, NC
+
+## Experience
+
