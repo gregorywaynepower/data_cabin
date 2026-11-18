@@ -7,6 +7,6 @@ listing:
   categories: true
 ---
 
-This is a Quarto website.
+This website is built by human hands and Quarto.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
