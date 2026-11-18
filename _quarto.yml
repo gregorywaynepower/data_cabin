@@ -12,6 +12,7 @@ website:
         text: Home
       - about.qmd
       - projects.qmd
+  twitter-card: true
 
 format:
   html:
